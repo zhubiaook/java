@@ -1,6 +1,6 @@
 package array;
 
-public class twoDimensionalArray {
+public class TwoDimensionalArray {
     public static void main(String[] args) {
         // Declare Array
         int[][] scores;
