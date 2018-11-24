@@ -1,2 +1,0 @@
-# java
-Just a test
