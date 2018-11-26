@@ -2,7 +2,10 @@ package array;
 import java.util.Arrays;
 
 public class ArrayExercise {
-    public static void main(String[] args) {
+
+    public ArrayExercise() {}
+
+    public void arrayExerciseMethod() {
         int[] nums = {61, 23, 4, 74, 13, 148, 20};
         int max = nums[0];
         int min = nums[0];

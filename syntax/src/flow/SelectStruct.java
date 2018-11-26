@@ -1,7 +1,10 @@
 package flow;
 
 public class SelectStruct {
-    public static void main(String[] args) {
+
+    public SelectStruct() {}
+
+    public void selectStructMethod() {
         int score = 30;
 
         // if..else

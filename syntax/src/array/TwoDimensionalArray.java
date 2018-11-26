@@ -1,7 +1,10 @@
 package array;
 
 public class TwoDimensionalArray {
-    public static void main(String[] args) {
+
+    public TwoDimensionalArray() {}
+
+    public void twoDimensionalArrayMethod() {
         // Declare Array
         int[][] scores;
 

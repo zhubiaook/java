@@ -1,7 +1,10 @@
 package flow;
 
 public class ForStruct {
-    public static void main(String[] args) {
+
+    public ForStruct() {}
+
+    public void forStructMethod() {
         int num1, num2, result;
 
         // while

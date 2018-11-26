@@ -1,7 +1,10 @@
 package array;
 
 public class Array {
-    public static void main(String[] args) {
+
+    public Array() {}
+
+    public void arrayMethod() {
         // Declare array
         int[] arr;
 
